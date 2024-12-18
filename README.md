@@ -7,7 +7,7 @@ I am an **AI Software Engineer** specializing in **Computer Vision applications*
 
 My work spans **Machine Learning** 📚, **MLOps** 🔄, **Cloud Engineering** ⛅️ and **Fullstack Development** 🌐.
 
-I've had the pleasure to contribute to the growth of:  **[FocoosAI](https://www.focoos.ai/)**, ~~**[OverIT.ai](https://www.overit.ai/)**~~, ~~**[Enerbrain](https://www.enerbrain.com/)**~~  
+I've had the pleasure to contribute to the growth of:  **[FocoosAI](https://www.focoos.ai/)**, ~~**[OverIT.ai](https://www.overit.ai/)**~~, ~~**[Enerbrain](https://www.enerbrain.com/)**~~.
 
 
 ## 👀 My Interests  
@@ -23,9 +23,9 @@ I've had the pleasure to contribute to the growth of:  **[FocoosAI](https://www.
 
 ---
 
-## 🛠️ My Tech Stack  
+## 🛠️ My Tech Stack
 
-**💻 Languages**:
+**💻 Languages**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 
 **🚀 API Frameworks**  
